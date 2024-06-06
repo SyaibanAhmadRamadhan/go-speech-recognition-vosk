@@ -13,31 +13,31 @@ To run this project, you need to set up the necessary dependencies on your syste
 ### Installing Dependencies
 #### linux debian
 ```shell
-    sudo apt-get install portaudio19-dev pkg-config
+sudo apt-get install portaudio19-dev pkg-config
 ```
 
 #### macos
 ```shell
-    brew install portaudio
+brew install portaudio
 ```
 
 ### install package
 ```shell
-    go mod downlaod
+go mod downlaod
 ```
 
 ## Running the Project
 ### clone project
 ```shell
-    https://github.com/SyaibanAhmadRamadhan/go-speech-recognition-vosk.git
+https://github.com/SyaibanAhmadRamadhan/go-speech-recognition-vosk.git
 ```
 
 ### and run 
 #### run windows
 ```shell
-    make run-windows
+make run-windows
 ```
 #### run linux
 ```shell
-    make run-linux
+make run-linux
 ```
