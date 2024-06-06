@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+.env
+.env.json
+
+vosk-linux*
+vosk-windows*
+vosk-model*
